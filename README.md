@@ -1,4 +1,4 @@
-# TFG_segumiento_y_distancia_personas
+# TFG_seguimiento_y_distancia_personas
 
 El TFG se engloba dentro del proyecto [RoboGait](https://blogs.upm.es/robogait/), en el que se trata de medir la "forma" de andar y de correr a través de parámetros extraídos de imágenes de personas andando o corriendo. Estas imágenes se obtienen usando [robots](https://blogs.upm.es/robogait/prototypes/).
 
